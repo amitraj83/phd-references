@@ -1,0 +1,88 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+\usepackage{url}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Benson2008,IronGallDegradation,Zanyi2007,Zhang2009,Yip2006,Wu1999,Wong2008,Wong2009,Wollheim1980,Wolf,Wei2003,Ware2002,Walther2006,Wallraven2009,Vishwanathan2002,Venkatesh2003,Valcik2006,Tractinsky2000,Thom1955,Th2004,Sykora2009,Sun2007,Stork2009,Stork,Stork2006a,Stork2007a,Stork2007,Stork2006,Steger1998,Sprott1998,Song2010,Small1991a,Small1991,Sita2002,Sin2001,Shibata1999,Shi2000,Shahram2008,Serre2005a,Serre2007,Serre2005,selinger2008potrace,Seidel1993,Schneider1988,Schmidhuber2010,Scharein1998,Sannier1997,Saint-Marc1993,Rowley1998,Roth1994,Robinson2008,Robins2008,Rigau2007,Riesenhuber1999,Riedmiller1994,Raina2009,Puzicha1998,Purchase2001,Prusinkiewicz1990,Procter1997,Press1992,Press1985,Prasad2005,Potier1994,Porter2004,Plass1983,Pietroni2010,Perez-Gonzalez2007,PENTCHEVA2011,Pelleg2000,Pappas2000,Pangborn2010,Otterloo1988,NVIDIA2008,Nocedal1999,Ngo2003,Ngo1998,Nakamoto2008,Mutch2008,Mutch2006,Mutch2010,Mussi2011,Munzner2000,Muhammad2009,Moshagen2010,Mortensen1995,Moon2003,Meehan,McLeay1996,McGuffin,Mavrinac2008,Mastio2008,Marr1982,Mandal2001,Maciejewski2008,MacGaffey2001,MacDermott1956,Lous1990,Liu2002,Lin2003,Lin2001,Li2009,Levien2009,Levenberg1944,Leedham1994,Lee2003,Lee2000,Lee2006,LeCun1998,Lavie2004,Larue2007,Larson2005,Lai2009,Lai2010,Lafortune1997,Lacroix2010,Kunihiko2005,Kulkarni2009,CGF:CGF172,Knuth1999,Knuth1979,Klempien-Hinrichs2010,Kindel,Kim1996,Kim2009a,Kim2009,Kelley2007,Kass1988,Karger1997,Kaplan1987,Kaplan2003,Kanungo2002,KALARICKAL1999,JUPP2006,Jolion2001,Johansson2003,Jiang2001,Jiang1996,Jeon2003,Itoh1993,Igarashi2007,Hsu2010,Hoenig2005,Herringham1909,Hawkins2001,Hawkins2005,Hastie2009,Hansel1996,Granlund1978,Ginzburg1980,Fukushima2006,Fukushima2003,Fukushima2005,Fukushima2001,Fukushima1980,Frick1995,Franke2003,Franke2001,Foley1993,Fogarty2001,Fisher2004,Filonik2009,Ferguson1964,Feng2004,Felzenszwalb2004,Fellner1993,Fay2007,Farin2002,Farin1993,Drewes2007,Drewes2000,Doran1995,Dorai2001,Diem2007,DiBattista1995,Devernay1995,Debevec1996,Datta2006,Daniilidis2010,Dang-Vu2010,Cromwell1993,Criminisi2005,Creagh2007,Community2008,Comaniciu2002,CHENG2005,Chen2005,Chen2009,Chatterjee2011,Chan2014,Cela-Conde2004,Carneiro2007,Callebaut2005,Bustamam2010,CGF:CGF269,Browne2006,Browne2006a,Bringhurst1992,Brigger2000,Bouvrie2006,Bouchard2005,Bosch1998,Bioletti2009,Bhattacharya2010,Berns2005,Berglund2006,Benson2007,Bengio2009,Benderskaya,Belongie2002,Behnke2005,Behnke2003,Bauerly2006,Barni2000,Bain1973,Armstrong2006,Amerijckx1998,Adelson1984,Abello2006"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "/home/sayandeep/Dropbox/Reading/References/references"
+options "plain"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
